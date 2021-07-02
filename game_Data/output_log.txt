@@ -1,0 +1,62 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630 (ID=0xf00)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MARCELO\Downloads\game\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MARCELO\Downloads\game\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELO\Downloads\game\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MARCELO\Downloads\game\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELO\Downloads\game\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MARCELO\Downloads\game\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.212 seconds
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\MARCELO\Downloads\game\game_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\MARCELO\Downloads\game\game_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
